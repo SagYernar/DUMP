@@ -1,0 +1,9 @@
+C:\Users\СагадиевЕ.CORP\Source\Repos\ManagementSystem\ManagementSystem\ManagmentSystemClassLibrary\bin\Debug\ManagmentSystemClassLibrary.dll
+C:\Users\СагадиевЕ.CORP\Source\Repos\ManagementSystem\ManagementSystem\ManagmentSystemClassLibrary\bin\Debug\ManagmentSystemClassLibrary.pdb
+C:\Users\СагадиевЕ.CORP\Source\Repos\ManagementSystem\ManagementSystem\ManagmentSystemClassLibrary\bin\Debug\MaterialSkin.dll
+C:\Users\СагадиевЕ.CORP\Source\Repos\ManagementSystem\ManagementSystem\ManagmentSystemClassLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\СагадиевЕ.CORP\Source\Repos\ManagementSystem\ManagementSystem\ManagmentSystemClassLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\СагадиевЕ.CORP\Source\Repos\ManagementSystem\ManagementSystem\ManagmentSystemClassLibrary\obj\Debug\ManagmentSystemClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\СагадиевЕ.CORP\Source\Repos\ManagementSystem\ManagementSystem\ManagmentSystemClassLibrary\obj\Debug\ManagmentSystemClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\СагадиевЕ.CORP\Source\Repos\ManagementSystem\ManagementSystem\ManagmentSystemClassLibrary\obj\Debug\ManagmentSystemClassLibrary.dll
+C:\Users\СагадиевЕ.CORP\Source\Repos\ManagementSystem\ManagementSystem\ManagmentSystemClassLibrary\obj\Debug\ManagmentSystemClassLibrary.pdb
