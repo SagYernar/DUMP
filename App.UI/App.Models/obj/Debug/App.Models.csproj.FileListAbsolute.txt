@@ -1,0 +1,6 @@
+C:\Users\СагадиевЕ.CORP\source\repos\App.UI\App.Models\bin\Debug\App.Models.dll
+C:\Users\СагадиевЕ.CORP\source\repos\App.UI\App.Models\bin\Debug\App.Models.pdb
+C:\Users\СагадиевЕ.CORP\source\repos\App.UI\App.Models\obj\Debug\App.Models.csprojResolveAssemblyReference.cache
+C:\Users\СагадиевЕ.CORP\source\repos\App.UI\App.Models\obj\Debug\App.Models.csproj.CoreCompileInputs.cache
+C:\Users\СагадиевЕ.CORP\source\repos\App.UI\App.Models\obj\Debug\App.Models.dll
+C:\Users\СагадиевЕ.CORP\source\repos\App.UI\App.Models\obj\Debug\App.Models.pdb

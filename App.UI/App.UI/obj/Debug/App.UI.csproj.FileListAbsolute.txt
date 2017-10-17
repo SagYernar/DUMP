@@ -1,0 +1,6 @@
+C:\Users\СагадиевЕ.CORP\source\repos\App.UI\App.UI\obj\Debug\App.UI.csprojResolveAssemblyReference.cache
+C:\Users\СагадиевЕ.CORP\source\repos\App.UI\App.UI\obj\Debug\MainWindow.g.cs
+C:\Users\СагадиевЕ.CORP\source\repos\App.UI\App.UI\obj\Debug\RegistratePage.g.cs
+C:\Users\СагадиевЕ.CORP\source\repos\App.UI\App.UI\obj\Debug\App.g.cs
+C:\Users\СагадиевЕ.CORP\source\repos\App.UI\App.UI\obj\Debug\App.UI_MarkupCompile.cache
+C:\Users\СагадиевЕ.CORP\source\repos\App.UI\App.UI\obj\Debug\App.UI_MarkupCompile.lref
