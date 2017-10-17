@@ -1,0 +1,16 @@
+C:\Users\СагадиевЕ.CORP\source\repos\BCrypt\BCrypt\bin\Debug\BCrypt.exe.config
+C:\Users\СагадиевЕ.CORP\source\repos\BCrypt\BCrypt\bin\Debug\BCrypt.exe
+C:\Users\СагадиевЕ.CORP\source\repos\BCrypt\BCrypt\bin\Debug\BCrypt.pdb
+C:\Users\СагадиевЕ.CORP\source\repos\BCrypt\BCrypt\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\СагадиевЕ.CORP\source\repos\BCrypt\BCrypt\obj\Debug\BCrypt.csprojResolveAssemblyReference.cache
+C:\Users\СагадиевЕ.CORP\source\repos\BCrypt\BCrypt\obj\Debug\MainWindow.g.cs
+C:\Users\СагадиевЕ.CORP\source\repos\BCrypt\BCrypt\obj\Debug\App.g.cs
+C:\Users\СагадиевЕ.CORP\source\repos\BCrypt\BCrypt\obj\Debug\BCrypt_MarkupCompile.cache
+C:\Users\СагадиевЕ.CORP\source\repos\BCrypt\BCrypt\obj\Debug\BCrypt_MarkupCompile.lref
+C:\Users\СагадиевЕ.CORP\source\repos\BCrypt\BCrypt\obj\Debug\MainWindow.baml
+C:\Users\СагадиевЕ.CORP\source\repos\BCrypt\BCrypt\obj\Debug\BCrypt.g.resources
+C:\Users\СагадиевЕ.CORP\source\repos\BCrypt\BCrypt\obj\Debug\BCrypt.Properties.Resources.resources
+C:\Users\СагадиевЕ.CORP\source\repos\BCrypt\BCrypt\obj\Debug\BCrypt.csproj.GenerateResource.Cache
+C:\Users\СагадиевЕ.CORP\source\repos\BCrypt\BCrypt\obj\Debug\BCrypt.csproj.CoreCompileInputs.cache
+C:\Users\СагадиевЕ.CORP\source\repos\BCrypt\BCrypt\obj\Debug\BCrypt.exe
+C:\Users\СагадиевЕ.CORP\source\repos\BCrypt\BCrypt\obj\Debug\BCrypt.pdb
