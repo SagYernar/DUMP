@@ -1,0 +1,28 @@
+﻿<Window x:Class="DocumentsLesson.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DocumentsLesson"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <!--<FlowDocumentReader>
+        <FlowDocument>
+            <Paragraph>
+                <Image Source="images.jpg"/>
+            </Paragraph>
+        </FlowDocument>
+    </FlowDocumentReader>-->
+
+    <DocumentViewer Name="fixeddd">
+        <FixedDocument>
+            <PageContent>
+                <FixedPage>
+                    <Grid>
+                        <TextBlock>Здесь какой-то текст</TextBlock>
+                    </Grid>
+                </FixedPage>
+            </PageContent>
+        </FixedDocument>
+    </DocumentViewer>
+</Window>
